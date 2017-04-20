@@ -38,10 +38,4 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         startActivityForResult(intent, CAMERA_REQUEST);
     }
 
-    private void TestUpLoad(){
-        int i=1+1;
-        int ii=2+2;
-        int iii=i+ii;
-
-    }
 }
